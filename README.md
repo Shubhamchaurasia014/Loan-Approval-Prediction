@@ -25,7 +25,7 @@ The workflow includes **data preprocessing, outlier treatment, feature scaling, 
 
 ---
 
-## 📊 Results
+##  Results
 - **Logistic Regression**: Baseline model  
 - **Random Forest**: Improved performance with feature importance insights  
 - **XGBoost**: Best performance on tabular data with tuned hyperparameters  
