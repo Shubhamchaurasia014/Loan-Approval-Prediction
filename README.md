@@ -23,6 +23,8 @@ The workflow includes **data preprocessing, outlier treatment, feature scaling, 
    - Comparison table (Accuracy, Precision, Recall, F1, ROC-AUC)  
    - Feature importance plots  
 
+3. **Deployement**
+   - Deployed an app which can predict whether the loan will approve or reject.
 ---
 
 ##  Results
